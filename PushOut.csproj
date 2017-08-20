@@ -97,6 +97,7 @@
     <Compile Include="Assets\Characters\Player\PlayerCamera\PlayerCameraController.cs" />
     <Compile Include="Assets\Characters\Player\PlayerController.cs" />
     <Compile Include="Assets\Characters\SwitchActivation.cs" />
+    <Compile Include="Assets\GameSystem\Score\ResetScore.cs" />
     <Compile Include="Assets\GameSystem\Score\Score.cs" />
     <Compile Include="Assets\GameSystem\TimeLimit\TimeLimit.cs" />
     <Compile Include="Assets\Particlecollection_Free samples\Plugins\Effect\Script\CameraTarget.cs" />
@@ -106,7 +107,6 @@
     <Compile Include="Assets\Particlecollection_Free samples\Plugins\Effect\Script\RenderEffect.cs" />
     <Compile Include="Assets\Particlecollection_Free samples\Plugins\Effect\Script\TransformExtension.cs" />
     <Compile Include="Assets\Scenes\Battle\GameOverEvent.cs" />
-    <Compile Include="Assets\Scenes\Battle\ResetScore.cs" />
     <Compile Include="Assets\Scenes\Battle\StageManager.cs" />
     <Compile Include="Assets\Scenes\Title\StartBattle.cs" />
   </ItemGroup>
